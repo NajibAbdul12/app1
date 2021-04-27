@@ -1,0 +1,81 @@
+{
+    "Header": {
+
+        "title": "Welcome To EVERYTHING ENTERTAINMENT! ",
+        "paragraph": "A cross-platform mobile application."
+
+    },
+    "About": {
+        "paragraph": "The aim is to design an entertainment application for the Android and IOS platforms. The user will be able to search information about their favorite movies, tv series and books.",
+        "Why": [
+            "Football",
+            "Marvel Movies",
+            "Game Of Thrones",
+            "Star Wars"
+        ],
+        "Why2": [
+            "Star Trek",
+            "Harry Potter Books",
+            "Lord Of The Rings Book"
+            
+        ]
+    },
+    "Services": [{
+            "icon": "fa fa-wordpress",
+            "name": "Firebase",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-cart-arrow-down",
+            "name": "Web APIS",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-cloud-download",
+            "name": "Data and Analytics",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-language",
+            "name": "Bootstrap",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        }
+
+
+    ],
+    "Team": [{
+            "img": "img/team/01.jpg",
+            "name": "Najib Abdulkhadir",
+            "job": "Project Manager + Developer"
+        }
+    ],
+    "Contact": {
+        "address": "129 Bordesley Green East, Birmingham B95SR ",
+        "phone": "+44 49549 5465",
+        "email": "najibabdulkhadir@hotmail.com",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    },
+    "Features": [{
+            "icon": "fa fa-comments-o",
+            "title": "Authentication",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-bullhorn",
+            "title": "Search Books ",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-group",
+            "title": "Search Movies",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-magic",
+            "title": "Save Images",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        }
+    ]
+}
